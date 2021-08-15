@@ -1,4 +1,4 @@
-# weather
+# KMA_bigdata_contest
 
 ## weather forecasting algorithm using Tensorflow
 1) xlrd & xlwt are used for xls file read/write
