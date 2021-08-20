@@ -1,6 +1,6 @@
 # contest
 
-contests I've been participating since 2019.
+contests I've participated since 2019.
 ## 2019
 ### KMA_bigdata_contest
  1) subject : machine learning & visualization for weather prediction
