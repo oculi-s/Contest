@@ -20,8 +20,16 @@ contests I've participated since 2019.
  3) result : 1st round pass
  4) source code hidden due to security issues
 ### SCPC 2021 (7/16-7/17)
- 1) subject : PS
+ 1) subject : CP
  2) language used : C
  3) result : 1st round fail, (221/800)
 ### HYUNDAI_MOBIS_challenge (8/27)
- 1) source code hidden due to security issues
+ 1) supject : CP
+ 2) language used : C & Python
+ 3) result : 1st round fail, 2 Sol
+ 4) source code hidden due to security issues
+### KAKAO_BLIND_RECRUITMENT (9/11)
+ 1) supject : CP
+ 2) language used : Python
+ 3) result : 4.5 Sol
+ 4) source code hidden due to security issues
