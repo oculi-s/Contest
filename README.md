@@ -18,7 +18,6 @@ contests I've participated since 2019.
  1) subject : machine learning & data analysis
  2) language used : Python
  3) result : 1st round pass
- 4) source code hidden due to security issues
 ### SCPC 2021 (7/16-7/17)
  1) subject : CP
  2) language used : C
@@ -32,4 +31,3 @@ contests I've participated since 2019.
  1) supject : CP
  2) language used : Python
  3) result : 4.5 Sol
- 4) source code hidden due to security issues
