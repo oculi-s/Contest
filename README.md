@@ -5,10 +5,10 @@
 ## 2019
 ### KMA_bigdata_contest
  1) subject : machine learning & visualization for weather prediction
- 2) language used : MATLAB, Python tensorflow
+ 2) tool : MATLAB, Python tensorflow
 ### MOIS_bigdata_contest
  1) subject : visualization & graphization to identify movement of people
- 2) language used : MATLAB
+ 2) tool : MATLAB
 
 ## 2021
 ### NAVER_webtoon_challenge (7/10-17)
